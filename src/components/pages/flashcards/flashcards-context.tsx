@@ -11,3 +11,5 @@ export type FlashcardContextType = {
 export const FlashcardContext = createContext<FlashcardContextType | undefined>(
   undefined
 );
+
+// Force rebuild for Vercel
