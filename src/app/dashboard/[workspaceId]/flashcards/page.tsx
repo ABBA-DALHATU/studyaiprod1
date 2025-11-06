@@ -8,7 +8,7 @@ import { FlashcardsHeader } from "@/components/pages/flashcards/flashcards-heade
 import { useState } from "react";
 import {
   FlashcardContext,
-  type FlashcardContextType,
+  // type FlashcardContextType,
 } from "@/components/pages/flashcards/flashcards-context";
 
 export default function FlashcardsPage({
